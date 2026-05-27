@@ -35,7 +35,6 @@ RentEase is a full-stack property rental platform that enables users to list, br
 ### Frontend
 - **EJS**: Template engine for server-side rendering
 - **Bootstrap**: Frontend framework for responsive design
-- **React.js**: Frontend library for building the user interface (planned)
 
 ### Backend
 - **Node.js**: JavaScript runtime for server-side development
